@@ -74,3 +74,7 @@
 .header_right {
     display: flex;
 }
+
+.header_option-active > .MuiSvgIcon-root{
+    color: #2e81f4
+}
